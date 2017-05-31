@@ -1,0 +1,11 @@
+body {
+    background-image: url(img/otoparkSekil.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-color: #747480;
+    background-position: center;
+    float: left;
+    background-size: contain;
+    position: fixed;
+    margin: auto;
+}
